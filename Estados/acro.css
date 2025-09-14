@@ -14,3 +14,11 @@ a.Amanhã {
     color: aqua;
     text-decoration: none;
 }
+
+.pai {
+    font-size: 20px;
+}
+
+.filho {
+    font-family: Arial, Helvetica, sans-serif;
+}
