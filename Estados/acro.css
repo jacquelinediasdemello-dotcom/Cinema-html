@@ -1,4 +1,16 @@
 p,
 a {
-    color: darkred;
+    color:black
+}
+
+
+a.Hoje {
+    color:  darkred;
+    text-decoration: none;
+}
+
+
+a.Amanhã {
+    color: aqua;
+    text-decoration: none;
 }
